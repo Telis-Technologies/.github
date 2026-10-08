@@ -6,7 +6,7 @@
 
 ## Who We Are
 
-Telis Technologies is a product engineering organization based in Nairobi, Kenya. We design, build, and operate digital platforms that serve the informal economy — the workers, communities, and micro-enterprises that power most of Africa's economic activity but remain largely excluded from formal digital systems.
+Telis Technologies is a product engineering organization based in Nairobi, Kenya. We design, build, and operate digital platforms that serve the informal economy the workers, communities, and micro-enterprises that power most of Africa's economic activity but remain largely excluded from formal digital systems.
 
 We are a multi-product company. Each product is independently scoped, independently led, and independently shipped. All of them run on the same core platform, the same engineering standards, and the same distribution philosophy: meet people where they are, on the devices they already use.
 
@@ -16,7 +16,7 @@ We are a multi-product company. Each product is independently scoped, independen
 
 We build infrastructure, not apps.
 
-Our products span health financing, insurance intelligence, mobility, payments, community finance, and whatever comes next. The common thread is not the sector — it is the user. Every product we ship serves someone who has been overlooked by traditional technology: a rider, a trader, a farmer, a chama member, a small business owner.
+Our products span health financing, insurance intelligence, mobility, payments, community finance, and whatever comes next. The common thread is not the sector it is the user. Every product we ship serves someone who has been overlooked by traditional technology: a rider, a trader, a farmer, a chama member, a small business owner.
 
 If it can be built on our core, and it serves the informal economy, it belongs in our portfolio.
 
