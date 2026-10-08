@@ -209,13 +209,11 @@ Telis was not born in a boardroom. It was born from five people who decided to b
 
 The name is not a word. It is an acronym. Every letter is an initial — a signature — a promise made by one of the five founders who started this.
 
-| Letter |Represents |
-|---|---|---|
-| **T** | Tristan |
-| **E** | Eugene  |
-| **L** | Lameck  |
-| **I** | Ingrid  |
-| **S** | Silas   |
+- **T** — Tristan
+- **E** — Eugene
+- **L** — Lameck
+- **I** — Ingrid
+- **S** — Silas
 
 We started as five. We will scale as many. But the name will always carry the five who began.
 
