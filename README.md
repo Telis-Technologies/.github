@@ -203,6 +203,32 @@ Unless otherwise specified, all repositories under Telis Technologies are propri
 
 ---
 
+## The Five
+
+Telis was not born in a boardroom. It was born from five people who decided to build something that outlasts them.
+
+The name is not a word. It is an acronym. Every letter is an initial — a signature — a promise made by one of the five founders who started this.
+
+| Letter |Represents |
+|---|---|---|
+| **T** | Tristan |
+| **E** | Eugene  |
+| **L** | Lameck  |
+| **I** | Ingrid  |
+| **S** | Silas   |
+
+We started as five. We will scale as many. But the name will always carry the five who began.
+
+We do not claim to have all the answers. We claim to have the resolve to find them. We will iterate, we will fail forward, and we will keep building until the infrastructure we imagined becomes the standard others build on.
+
+**We will strive. We will achieve. We will conquer ; not markets, but problems. Not competitors, but the barriers that keep ordinary people locked out of systems built for someone else.**
+
+This is where Telis came from. This is what we carry forward.
+
+**T · E · L · I · S**
+
+*Five founders. One mission. Building for the people who were never the target audience.*
+
 **Telis Technologies**
 
 *Build the core once. Ship products that matter.*
